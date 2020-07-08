@@ -7,6 +7,11 @@ body {
     font-size: 14px;
 	color:#303030;
 }
+.chon-xe-cua-ban{
+    border-width: 10px;
+    border-color: red;
+    border-style: double;
+}
 .img{
     max-width: 100%;
     transition: all 0.3s ease-out 0s;
