@@ -1,4 +1,16 @@
 
+
+/* canh giữa banner */
+.banner{
+    display: block;
+  text-align: center;
+}
+
+
+
+
+
+
 /* canh lề trái phải */
 p.alignLeft {
     text-align: left;
